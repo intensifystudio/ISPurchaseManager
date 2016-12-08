@@ -21,12 +21,12 @@ Pod::Spec.new do |s|
 Wrapper for StoreKit framework to easily find, purchase, restore products.
                        DESC
 
-  s.homepage         = 'https://ziad_tamim@bitbucket.org/intensifystudio/purchasemanager.git'
+  s.homepage         = 'https://github.com/intensifystudio/ISPurchaseManager.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Ziad Tamim' => 'tamim.ziad@gmail.com' }
-  s.source           = { :git => 'https://ziad_tamim@bitbucket.org/intensifystudio/purchasemanager.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.author           = { 'Ziad Tamim' => 'support@intensifystudio.com' }
+  s.source           = { :git => 'https://github.com/intensifystudio/ISPurchaseManager.git', :tag => s.version.to_s }
+  s.social_media_url = 'https://twitter.com/intensifystudio'
 
   s.ios.deployment_target = '8.0'
 
