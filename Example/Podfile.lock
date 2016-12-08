@@ -1,0 +1,25 @@
+PODS:
+  - Bolts-Swift (1.3.0)
+  - Nimble (5.1.1)
+  - PurchaseManager (0.1.0):
+    - Bolts-Swift (~> 1.3)
+  - Quick (0.10.0)
+
+DEPENDENCIES:
+  - Nimble (~> 5.1)
+  - PurchaseManager (from `../`)
+  - Quick (~> 0.10)
+
+EXTERNAL SOURCES:
+  PurchaseManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Bolts-Swift: fa98d1b59fc1acea9b21a21306dcdca1c85e3737
+  Nimble: 415e3aa3267e7bc2c96b05fa814ddea7bb686a29
+  PurchaseManager: 4224dcfa089c48616247e0e5f05c35ccf8c77315
+  Quick: 5d290df1c69d5ee2f0729956dcf0fd9a30447eaa
+
+PODFILE CHECKSUM: 33019eaa19c576c665ffa3aa8281d9a5d86cc687
+
+COCOAPODS: 1.1.1

@@ -1,0 +1,27 @@
+{
+  "name": "PurchaseManager",
+  "version": "0.1.0",
+  "summary": "A short description of PurchaseManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/PurchaseManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ziad Tamim": "tamim.ziad@gmail.com"
+  },
+  "source": {
+    "git": "git@bitbucket.org:intensifystudio/purchasemanager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PurchaseManager/Classes/**/*",
+  "dependencies": {
+    "Bolts-Swift": [
+      "~> 1.3"
+    ]
+  }
+}
