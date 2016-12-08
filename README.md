@@ -22,7 +22,7 @@ pod "PurchaseManager"
 
 ## Author
 
-Ziad Tamim, ziad@intensifystudio.com
+IntensifyStudio, support@intensifystudio.com
 
 ## License
 
